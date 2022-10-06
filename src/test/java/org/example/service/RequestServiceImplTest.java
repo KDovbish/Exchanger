@@ -1,12 +1,9 @@
-package example.service;
+package org.example.service;
 
 import org.example.entity.ExchangeRateEntity;
 import org.example.entity.RequestEntity;
 import org.example.enumtype.OperationStatus;
 import org.example.repositary.RequestRepositary;
-import org.example.service.ExchangeRateServiceImpl;
-import org.example.service.RequestService;
-import org.example.service.RequestServiceImpl;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;

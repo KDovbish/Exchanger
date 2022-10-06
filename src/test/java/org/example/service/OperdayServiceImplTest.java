@@ -1,10 +1,8 @@
-package example.service;
+package org.example.service;
 
 
 import org.example.entity.OperdayEntity;
 import org.example.repositary.OperdayRepositary;
-import org.example.service.OperdayService;
-import org.example.service.OperdayServiceImpl;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;

@@ -1,9 +1,8 @@
-package example;
+package org.example;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.example.ExchangerImpl;
 import org.example.exception.OperdayIsAlreadyOpenException;
 import org.example.exception.PrivatExchangeRateException;
 import org.example.service.ExchangeRateServiceImpl;

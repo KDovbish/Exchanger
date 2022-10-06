@@ -1,7 +1,6 @@
-package example.repositary;
+package org.example.repositary;
 
 import org.example.entity.ExchangeRateEntity;
-import org.example.repositary.ExchangeRateRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

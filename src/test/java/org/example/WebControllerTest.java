@@ -1,7 +1,5 @@
-package example;
+package org.example;
 
-import org.example.ExchangerImpl;
-import org.example.WebController;
 import org.example.exception.OperdayIsAlreadyOpenException;
 import org.hamcrest.Matchers;
 import org.junit.Test;
